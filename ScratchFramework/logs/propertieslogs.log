@@ -1,0 +1,8 @@
+[INFO ] 2022-05-09 17:58:34.810 [main] Log4jDemo - Logged info
+[ERROR] 2022-05-09 17:58:34.812 [main] Log4jDemo - Logged error
+[WARN ] 2022-05-09 17:58:34.812 [main] Log4jDemo - Logged warn
+[FATAL] 2022-05-09 17:58:34.812 [main] Log4jDemo - Logged fatal
+[INFO ] 2022-05-09 18:12:11.053 [main] Log4jDemo - Logged info
+[ERROR] 2022-05-09 18:12:11.055 [main] Log4jDemo - Logged error
+[WARN ] 2022-05-09 18:12:11.055 [main] Log4jDemo - Logged warn
+[FATAL] 2022-05-09 18:12:11.055 [main] Log4jDemo - Logged fatal
