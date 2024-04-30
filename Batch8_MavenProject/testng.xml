@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Suite">
+  
+  <listeners>
+		<listener class-name="utilities.ListenerClass" />
+	</listeners>
+  
+  <test thread-count="5" name="Test1">
+  	<classes>
+  		<class name="com.testacademy.testcases.Test_Homepage"></class>
+  		
+  		
+  		<!-- <class name="com.testacademy.testcases.TestCase2"></class>
+  		<class name="com.testacademy.testcases.TestCase3"></class>
+  		<class name="com.testacademy.testcases.TestCase4"></class> -->
+  	</classes>
+  </test> <!-- Test -->
+  
+  <!-- <test thread-count="5" name="Test2">
+  	<classes>
+  		<class name="com.testacademy.testcases.TestCase1"></class>
+  		
+  		<class name="com.testacademy.testcases.TestCase2"></class>
+  		<class name="com.testacademy.testcases.TestCase3"></class>
+  		<class name="com.testacademy.testcases.TestCase4"></class>
+  	</classes>
+  </test> Test -->
+  
+</suite> <!-- Suite -->
